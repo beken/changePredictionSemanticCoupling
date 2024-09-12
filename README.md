@@ -1,4 +1,4 @@
-# Online appendix for Leveraging Semantic Coupling Through Class Name Embeddings for Change Prediction
+# Online appendix for Leveraging Semantic Coupling Through Class Name Embeddings for Software Change Prediction
 
 This repository is the online appendix for the paper titled "Leveraging Semantic Coupling Through Class Name Embeddings for Change Prediction". 
 
